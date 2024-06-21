@@ -122,11 +122,7 @@ To install and set up Chef Bot, follow these steps:
 
 ## Usage
 
-To use Chef Bot, run the following command:
 
-```bash
-python chef_bot.py
-```
 
 To run the Streamlit app, use this command:
 
